@@ -66,6 +66,8 @@ production-style web architecture.
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div align="center">
 
 **Thanks for visiting!**
