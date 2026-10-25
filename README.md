@@ -1,75 +1,79 @@
 
 <div align="center">
 
-# Hi, I'm Gianluca!
+# Hey, I'm Gianluca! 👋
 
-**MSc in Artificial Intelligence | Software Engineering | MLOps**
+**MSc in Artificial Intelligence • Software Engineering • MLOps**
 
-I enjoy building software, exploring machine learning,
-and turning technical ideas into working systems.
+I enjoy building software, exploring machine learning, and turning technical ideas into working systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-de-bonis/)
 
 </div>
 
-## About me
+---
 
-- MSc in Artificial Intelligence from the University of Bologna.
-- Former CERN technical student, working with the Open Source Program Office.
-- Experience with software development, open-source tooling, CI/CD, and containerized environments.
-- Interested in AI engineering, backend development, data engineering, and MLOps.
+## 👨‍💻 About Me
 
-## Tech stack
+- 🎓 MSc in **Artificial Intelligence** from the University of Bologna.
+- 🔬 Former **CERN Technical Student**, working with the Open Source Program Office (OSPO).
+- 🛠️ Experience in software development, open-source tooling, CI/CD, and containerized environments.
+- 🌱 Currently exploring agentic AI, knowledge retrieval, and production ML workflows.
 
-**Languages:** Python, Java, SQL, Bash
+## 🧰 Tech Stack
 
-**Backend & infrastructure:** FastAPI, Docker, Kubernetes, GitLab CI/CD, AWS
+**Languages:** Python · Java · SQL · Bash
 
-**AI & Data:** scikit-learn, MLflow, Neo4j, RDF/OWL
+**Backend & Infrastructure:** FastAPI · Docker · Kubernetes · GitLab CI/CD · AWS
 
-**Tools:** Git, GitHub, Linux
+**AI & Data:** scikit-learn · MLflow · Neo4j · RDF/OWL
 
-## Featured projects
+**Developer Tools:** Git · GitHub · Linux
 
-### Second Brain Processor
-An experimental pipeline combining PDF processing,
-semantic retrieval, structured AI agents, and an
-independent review workflow.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,fastapi,docker,kubernetes,aws,git,github,linux&perline=10" alt="Tech Stack" />
+</p>
 
-[Explore the project](https://github.com/luckydb-0/sb-processor)
+## 🚀 Featured Projects
 
-### OSPO Workflows
-Reusable workflows for Software Bill of Materials
-(SBOM) generation and CERN-specific enrichment.
+### 🧠 [Second Brain Processor](https://github.com/luckydb-0/sb-processor)
+An AI-powered processing pipeline combining PDF extraction, semantic retrieval, structured AI agents, and independent review workflows.
 
-[Explore the project](https://github.com/luckydb-0/ospo-workflows)
+**Focus:** Agentic AI · RAG · Python
 
-### AugSeg
-University computer vision project extending a
-semi-supervised semantic segmentation implementation
-with ResNet-18 support, experiments, and evaluation tools.
+### 🔧 [OSPO Workflows](https://github.com/luckydb-0/ospo-workflows)
+Reusable CI/CD workflows for Software Bill of Materials (SBOM) generation and CERN-specific enrichment.
 
-[Explore the project](https://github.com/luckydb-0/AugSeg)
+**Focus:** SBOM · CI/CD · Open Source
 
-### MediNotes Pro
-A course-based AI SaaS application exploring
-authenticated APIs, LLM streaming, and a
-production-style web architecture.
+### 👁️ [AugSeg](https://github.com/luckydb-0/AugSeg)
+A computer vision project extending a semi-supervised semantic segmentation implementation with ResNet-18 support, experiments, and evaluation tools.
 
-[Explore the project](https://github.com/luckydb-0/ai-saas-production)
+**Focus:** Deep Learning · Computer Vision · PyTorch
 
-## Currently exploring
+### ⚡ [MediNotes Pro](https://github.com/luckydb-0/ai-saas-production)
+A course-based AI SaaS application exploring authenticated APIs, LLM streaming, and production-style web architecture.
 
-- Agentic AI systems and knowledge retrieval
-- Production ML workflows
-- Cloud infrastructure and developer tooling
+**Focus:** FastAPI · LLMs · Next.js
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,typescript,cpp,docker,kubernetes,anaconda,arduino,aws,bash)](https://skillicons.dev)
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Thanks for visiting!**
+  <img
+    height="220"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=luckydb-0&layout=compact&langs_count=6&theme=city_lights"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!**
 
 </div>
